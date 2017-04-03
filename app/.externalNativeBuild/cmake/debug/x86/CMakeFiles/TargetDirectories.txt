@@ -1,0 +1,4 @@
+/Users/dave/AndroidStudioProjects/Hunted/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/Users/dave/AndroidStudioProjects/Hunted/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/Users/dave/AndroidStudioProjects/Hunted/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/native-hunted.dir
+/Users/dave/AndroidStudioProjects/Hunted/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/app-glue.dir

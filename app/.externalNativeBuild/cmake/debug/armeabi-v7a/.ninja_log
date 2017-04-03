@@ -1,0 +1,21 @@
+# ninja log v5
+0	242	0	CMakeFiles/app-glue.dir/Users/dave/Library/Android/sdk/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c.o	69b155f546fa54e1
+242	294	0	libapp-glue.a	23419eda7244e1bf
+294	465	0	CMakeFiles/native-hunted.dir/main.c.o	566883dbc6073505
+465	532	0	/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-hunted.so	a5529e39c8b72599
+0	138	0	CMakeFiles/app-glue.dir/Users/dave/Library/Android/sdk/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c.o	69b155f546fa54e1
+138	180	0	libapp-glue.a	23419eda7244e1bf
+180	343	0	CMakeFiles/native-hunted.dir/main.c.o	566883dbc6073505
+343	379	0	/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-hunted.so	a5529e39c8b72599
+1	154	0	CMakeFiles/native-hunted.dir/main.c.o	566883dbc6073505
+154	196	0	/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-hunted.so	a5529e39c8b72599
+1	131	0	CMakeFiles/native-hunted.dir/main.c.o	566883dbc6073505
+131	171	0	/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-hunted.so	a5529e39c8b72599
+0	92	0	CMakeFiles/native-hunted.dir/main.c.o	566883dbc6073505
+93	130	0	/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-hunted.so	a5529e39c8b72599
+0	80	0	CMakeFiles/native-hunted.dir/main.c.o	566883dbc6073505
+80	119	0	/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-hunted.so	a5529e39c8b72599
+1	93	0	CMakeFiles/native-hunted.dir/main.c.o	566883dbc6073505
+93	133	0	/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-hunted.so	a5529e39c8b72599
+1	89	0	CMakeFiles/native-hunted.dir/main.c.o	566883dbc6073505
+89	126	0	/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-hunted.so	a5529e39c8b72599

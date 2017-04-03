@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/dave/AndroidStudioProjects/Hunted/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/dave/AndroidStudioProjects/Hunted/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

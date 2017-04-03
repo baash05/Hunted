@@ -1,0 +1,21 @@
+# ninja log v5
+0	266	0	CMakeFiles/app-glue.dir/Users/dave/Library/Android/sdk/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c.o	6787302788846103
+266	381	0	libapp-glue.a	23419eda7244e1bf
+381	530	0	CMakeFiles/native-hunted.dir/main.c.o	995b6c3b9073cecf
+531	574	0	/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/cmake/debug/obj/armeabi/libnative-hunted.so	9b70db22e8e92c4a
+0	159	0	CMakeFiles/app-glue.dir/Users/dave/Library/Android/sdk/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c.o	6787302788846103
+159	262	0	libapp-glue.a	23419eda7244e1bf
+262	392	0	CMakeFiles/native-hunted.dir/main.c.o	995b6c3b9073cecf
+392	451	0	/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/cmake/debug/obj/armeabi/libnative-hunted.so	9b70db22e8e92c4a
+0	175	0	CMakeFiles/native-hunted.dir/main.c.o	995b6c3b9073cecf
+175	244	0	/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/cmake/debug/obj/armeabi/libnative-hunted.so	9b70db22e8e92c4a
+2	261	0	CMakeFiles/native-hunted.dir/main.c.o	995b6c3b9073cecf
+262	316	0	/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/cmake/debug/obj/armeabi/libnative-hunted.so	9b70db22e8e92c4a
+1	108	0	CMakeFiles/native-hunted.dir/main.c.o	995b6c3b9073cecf
+108	163	0	/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/cmake/debug/obj/armeabi/libnative-hunted.so	9b70db22e8e92c4a
+1	86	0	CMakeFiles/native-hunted.dir/main.c.o	995b6c3b9073cecf
+86	119	0	/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/cmake/debug/obj/armeabi/libnative-hunted.so	9b70db22e8e92c4a
+1	99	0	CMakeFiles/native-hunted.dir/main.c.o	995b6c3b9073cecf
+99	140	0	/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/cmake/debug/obj/armeabi/libnative-hunted.so	9b70db22e8e92c4a
+1	78	0	CMakeFiles/native-hunted.dir/main.c.o	995b6c3b9073cecf
+78	117	0	/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/cmake/debug/obj/armeabi/libnative-hunted.so	9b70db22e8e92c4a

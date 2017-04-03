@@ -1,0 +1,7 @@
+#Mon Apr 03 21:12:35 AEST 2017
+base.0=/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6d4f240e51442a149d337c5d431027ce820a9dce
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_406c237e43c0d94b468633bd01bd853f6febface/classes.dex
+base.1=/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_406c237e43c0d94b468633bd01bd853f6febface
+file.0=/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6d4f240e51442a149d337c5d431027ce820a9dce/classes.dex

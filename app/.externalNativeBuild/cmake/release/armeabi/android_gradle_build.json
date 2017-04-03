@@ -1,0 +1,59 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/dave/AndroidStudioProjects/Hunted/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/dave/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/dave/AndroidStudioProjects/Hunted/app/.externalNativeBuild/cmake/release/armeabi --target clean"
+	],
+	"libraries" : 
+	{
+		"app-glue-Release-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "app-glue",
+			"buildCommand" : "/Users/dave/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/dave/AndroidStudioProjects/Hunted/app/.externalNativeBuild/cmake/release/armeabi --target app-glue",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=/Users/dave/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/dave/Library/Android/sdk/ndk-bundle/platforms/android-9/arch-arm   -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG       -c ",
+					"src" : "/Users/dave/Library/Android/sdk/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c",
+					"workingDirectory" : "/Users/dave/AndroidStudioProjects/Hunted/app/.externalNativeBuild/cmake/release/armeabi"
+				}
+			],
+			"output" : "/Users/dave/AndroidStudioProjects/Hunted/app/.externalNativeBuild/cmake/release/armeabi/libapp-glue.a",
+			"toolchain" : "70458280713560155"
+		},
+		"native-hunted-Release-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "native-hunted",
+			"buildCommand" : "/Users/dave/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/dave/AndroidStudioProjects/Hunted/app/.externalNativeBuild/cmake/release/armeabi --target native-hunted",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=/Users/dave/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/dave/Library/Android/sdk/ndk-bundle/platforms/android-9/arch-arm -Dnative_hunted_EXPORTS -I/Users/dave/Library/Android/sdk/ndk-bundle/sources/android/native_app_glue  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "/Users/dave/AndroidStudioProjects/Hunted/app/src/main/cpp/main.c",
+					"workingDirectory" : "/Users/dave/AndroidStudioProjects/Hunted/app/.externalNativeBuild/cmake/release/armeabi"
+				}
+			],
+			"output" : "/Users/dave/AndroidStudioProjects/Hunted/app/build/intermediates/cmake/release/obj/armeabi/libnative-hunted.so",
+			"toolchain" : "70458280713560155"
+		}
+	},
+	"toolchains" : 
+	{
+		"70458280713560155" : 
+		{
+			"cCompilerExecutable" : "/Users/dave/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/dave/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}
